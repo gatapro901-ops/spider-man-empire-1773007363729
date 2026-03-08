@@ -1,0 +1,1 @@
+// كود واجهة Dashboard// تحديث الواجهة عند التحميلwindow.addEventListener('load', () => {  console.log('الواجهة تم تحميلها');});// إضافة حدث للزر عند النقر عليهdocument.querySelector('button').addEventListener('click', () => {  console.log('تم النقر على الزر');});
