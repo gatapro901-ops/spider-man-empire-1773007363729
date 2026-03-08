@@ -1,0 +1,1 @@
+// كود المحرك البرمجي للصفحة الرئيسية// تحديث الصفحة عند التحميلwindow.addEventListener('load', () => {  console.log('الصفحة تم تحميلها');});// إضافة حدث للزر عند النقر عليهdocument.querySelector('button').addEventListener('click', () => {  console.log('تم النقر على الزر');});
